@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme4garcia&hide=jupyter%20notebook,html,css,ejs&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br></br>
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to chat!</b> :)</em>
 
 
 guilherme4garcia@gmail.com
